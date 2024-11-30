@@ -1,13 +1,16 @@
-# Problem Statement: 
-# Write a program that checks if a number is positive, negative, or zero.
-# Input:
-# An integer (n).
-# Output:
-# A message indicating whether the number is positive, negative, or zero.
-# Example Input:
-# -5
-# Example Output:
-# Negative number
+"""
+Problem Statement: 
+Write a program that checks if a number is positive, negative, or zero.
+Input:
+An integer (n).
+Output:
+A message indicating whether the number is positive, negative, or zero.
+Example Input:
+-5
+Example Output:
+Negative number 
+
+"""
 
 n = int(input())
 

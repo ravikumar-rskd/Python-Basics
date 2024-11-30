@@ -1,15 +1,18 @@
-# Problem Statement: 
-# Write a program to demonstrate the use of logical operators (and, or, not).
-# Input:
-# Two boolean values (x, y).
-# Output:
-# The results of logical operations on x and y.
-# Example Input:
-# True False
-# Example Output:
-# x and y -> False
-# x or y -> True
-# not x -> False
+"""
+Problem Statement: 
+Write a program to demonstrate the use of logical operators (and, or, not).
+Input:
+Two boolean values (x, y).
+Output:
+The results of logical operations on x and y.
+Example Input:
+True False
+Example Output:
+x and y -> False
+x or y -> True
+not x -> False
+
+"""
 
 x, y = map(lambda v: v == "True", input().split())
 

@@ -1,14 +1,17 @@
-# Problem Statement: 
-# Declare variables of different types (int, float, str, bool). Print the values and their types.
-# Input:
-# No user input required.
-# Output:
-# Display the values of the variables and their types.
-# Example Output:
-# Integer value: 10, Type: <class 'int'>
-# Float value: 20.5, Type: <class 'float'>
-# String value: Hello, Type: <class 'str'>
-# Boolean value: True, Type: <class 'bool'>
+"""
+Problem Statement: 
+Declare variables of different types (int, float, str, bool). Print the values and their types.
+Input:
+No user input required.
+Output:
+Display the values of the variables and their types.
+Example Output:
+Integer value: 10, Type: <class 'int'>
+Float value: 20.5, Type: <class 'float'>
+String value: Hello, Type: <class 'str'>
+Boolean value: True, Type: <class 'bool'>
+
+"""
 
 integer_var = 10
 float_var = 20.5
